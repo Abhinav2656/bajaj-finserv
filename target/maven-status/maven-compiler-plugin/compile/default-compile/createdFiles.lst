@@ -1,0 +1,6 @@
+com\bajajfinserv\health\qualifier\config\AppConfig.class
+com\bajajfinserv\health\qualifier\dto\WebhookRequest.class
+com\bajajfinserv\health\qualifier\service\WebhookService.class
+com\bajajfinserv\health\qualifier\DemoApplication.class
+com\bajajfinserv\health\qualifier\dto\WebhookResponse.class
+com\bajajfinserv\health\qualifier\dto\SubmitResponse.class
